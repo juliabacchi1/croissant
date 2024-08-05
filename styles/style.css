@@ -1,0 +1,21 @@
+body {
+    margin: 20px auto;
+    background-color: #fde9c3f2;
+    text-align: center;
+}
+
+.menu {
+  margin: 0 10px;
+}
+
+.menu a {
+    padding: 20px;
+}
+
+p {
+    padding: 10px;
+}
+
+img {
+    margin: 20px;
+}
